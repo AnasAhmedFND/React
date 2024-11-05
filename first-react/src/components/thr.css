@@ -1,0 +1,45 @@
+.banar img{
+    width: 100%;
+}
+
+.banar{
+    position: absolute;
+}
+.top{
+    position: absolute;
+    border: 1px solid black;
+    width: 100%;
+    height: 120%;
+    text-align: center;
+    color: white;
+   
+    
+}
+.business{
+    margin-top: 15%;
+    font-size: 25px;
+   
+}
+.level{
+    font-size: 70px;
+}
+.but1{
+    border: 1px solid rgb(221, 112, 10);
+    padding: 10px 30px;
+    background-color: rgb(221, 112, 10);
+    border-radius: 25px;
+    color: white;
+    margin-right: 7px;
+}
+.but2{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px 30px;   
+    border-radius: 25px;   
+    margin-left: 7px;
+}
+.top{
+    background-color: black;    
+    opacity: .5;
+
+   
+}
