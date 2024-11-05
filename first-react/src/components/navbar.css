@@ -1,0 +1,53 @@
+.navbar{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(232, 230, 226);
+}
+.discription{
+    display: flex;
+    gap: 25px;
+    font-size: 20px;
+}
+.discription li{
+    list-style-type: none;
+    border-right: 1px solid black;
+    padding-right: 5px;
+
+}
+
+.social{
+    display: flex;
+    border: 1px solid white;
+    width: 30%;
+    align-items: center;
+    padding-left: 40px;
+    background-color: rgb(199, 91, 51);
+    color: white;
+    
+}
+.social img{
+    width: 30px;
+    height: 30px;
+    
+
+    
+}
+
+
+.maildiv{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    border-right:1px solid white ;
+    padding-right: 15px;
+}
+
+.calldiv{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding-left: 15px;
+}
+
+
